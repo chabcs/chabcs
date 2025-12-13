@@ -1,5 +1,5 @@
 # Opa, Chab aqui 👋
----
+
 Sou programador com anos de experiência construindo produtos, sistemas e ferramentas o mercado. Agora, decidi aliar minha expertise técnica a uma paixão de longa data: o **Counter-Strike** (jogo desde a era 1.6)
 
 Meu objetivo é criar ferramentas práticas, eficientes e realmente úteis para jogadores, criadores de conteúdo e toda a comunidade do CS2. E vou documentar essa jornada toda em público.
